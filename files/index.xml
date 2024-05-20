@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Files on Thumbs</title>
+    <title>Files on A Dive Into Thumbs</title>
     <link>https://125837492739.github.io/files/</link>
-    <description>Recent content in Files on Thumbs</description>
+    <description>Recent content in Files on A Dive Into Thumbs</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>no@no.com (Christopher Zhang)</managingEditor>
     <webMaster>no@no.com (Christopher Zhang)</webMaster>
     <copyright>Christopher Zhang</copyright>
     <atom:link href="https://125837492739.github.io/files/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>/Welcome/ – A Dive Into Thumbs</title>
+      <link>https://125837492739.github.io/files/lenses/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>no@no.com (Christopher Zhang)</author>
+      <guid>https://125837492739.github.io/files/lenses/welcome/</guid>
+      <description>Introduction Welcome to this website about thumbs!&#xA;My name is Christopher and this site was made for my final project in Biology.&#xA;This website is organized into 5 lenses, each representing unit that we&amp;#39;ve learned in the year. It is in a Q&amp;amp;A style, with each lens featuring a few questions that I will answer.&#xA;To navigate this site, you can click on any of the posts on the home page, or use the bar at the top.</description>
+    </item>
     <item>
       <title>Anatomy</title>
       <link>https://125837492739.github.io/files/lenses/anatomy/</link>
